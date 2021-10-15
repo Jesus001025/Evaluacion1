@@ -1,0 +1,51 @@
+{
+    "name": "#Evaluacion",
+    "short_name": "#Evaluacion",
+    "description": "Esta es una página PWA",
+    "background_color": "#2B2B2B",
+    "theme_color": "#F0DB4F",
+    "orientation": "portrait",
+    "display": "standalone",
+    "start_url": "./?utm_source=web_app_manifest",
+    "scope": "./",
+    "lang": "es-MX",
+    "icons": [{
+            "src": "./img/icon512.png",
+            "sizes": "512x123",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icon256.png",
+            "sizes": "256x61",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/icon196.png",
+            "sizes": "196x47",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/icon128.png",
+            "sizes": "128x31",
+            "type": "image/png"
+        },
+
+        {
+            "src": "./img/icon64.png",
+            "sizes": "64x15",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icon32.png",
+            "sizes": "32x8",
+            "type": "image/png"
+        },
+        {
+            "src": "./img/icon16.png",
+            "sizes": "16x4",
+            "type": "image/png"
+        }
+    ]
+}
